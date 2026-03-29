@@ -10,4 +10,3 @@ The dashboard is designed to help users quickly understand:
 * Sector-wise performance
 * Top gainers and losers
 * Detailed stock-level exploration
-* 
